@@ -1,0 +1,20 @@
+{
+  "name": "js-graphql-project-managemant",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chandan167/node-js-graphql-project-managemant.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chandan167/node-js-graphql-project-managemant/issues"
+  },
+  "homepage": "https://github.com/chandan167/node-js-graphql-project-managemant#readme"
+}
